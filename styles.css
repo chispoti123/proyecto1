@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
-
+/*******************
+SELECTION STYLING
+*******************/
 
 ::selection {
 	color: #fff;
