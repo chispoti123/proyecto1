@@ -1,0 +1,4 @@
+*****Explicacion del Proyecto*********
+- primero se copia la base de datos "database"
+- camibiar la ruta de mysql en la configuracion "config"
+- y finalmente ejcutarlo en el xamp iniciando el apache y mysql
